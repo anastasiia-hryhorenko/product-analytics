@@ -14,7 +14,7 @@ quality.
 
 ## 📈 Live Dashboards & Code
 * 📊 **Interactive Cohort Model:** [Open in Google Sheets](https://docs.google.com/spreadsheets/d/1YJC6jdDvOum5U468yGxbL0KVhZ9ui4A5ulUODn0nQEE/edit?gid=1431524392#gid=1431524392) 
-* 💾 **Data Transformation Script:** [Product-Analytics.sql]
+* 💾 **Data Transformation Script:** [Product Analytics.sql]
 
 ---
 
@@ -73,6 +73,6 @@ The comparative analysis between acquisition channels reveals a significant disp
 ---
 
 ## 📁 How to Review This Project
-1. Open the [Product-Analytics.sql] to review code structure, query optimization, and data aggregation logic.
+1. Open the [Product Analytics.sql] to review code structure, query optimization, and data aggregation logic.
 2. Open the [Google Sheets link](https://docs.google.com/spreadsheets/d/1YJC6jdDvOum5U468yGxbL0KVhZ9ui4A5ulUODn0nQEE/edit?gid=1431524392#gid=1431524392)
 * to explore the interactive cohort models, pivot tables, formulas, and visual heatmaps.
